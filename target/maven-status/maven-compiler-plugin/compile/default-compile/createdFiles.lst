@@ -1,0 +1,5 @@
+BDD\CucumberBDD\stepDefinitions\SignUpSteps.class
+BDD\CucumberBDD\testBase\DriverInit.class
+BDD\CucumberBDD\PageObjects\signUpPage.class
+BDD\CucumberBDD\Utils\CommonMethods.class
+BDD\CucumberBDD\Utils\ReadConfigDetails.class
